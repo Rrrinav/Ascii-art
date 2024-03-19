@@ -53,3 +53,8 @@ To run this program, you need:
 - **Grid Class:** The `grid` class provides a flexible implementation of a 2D grid with various constructors for initialization.
 - **Update Function:** The `update` function applies the Game of Life rules to evolve the state of each cell based on its neighbors.
 - **Visualization:** The `show_grid` function uses colored output to visualize the grid, with alive cells marked with a different color.
+
+## Video Playback
+
+https://github.com/Rrrinav/Ascii-art/assets/152062141/c392e888-9c90-4bcc-b88c-99675edad927
+
