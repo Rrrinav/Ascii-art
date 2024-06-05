@@ -1,5 +1,7 @@
 # Steam Simulation
 
+https://github.com/Rrrinav/Ascii-art/assets/152062141/e9d82b0d-b9d9-487c-b5c4-2a129516d90c
+
 This program simulates the generation of steam using ASCII characters. It creates a dynamic steam effect where particles rise upwards, resembling steam rising from a source.
 
 ## Features
