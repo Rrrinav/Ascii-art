@@ -1,6 +1,6 @@
 # Steam Simulation
 
-https://github.com/Rrrinav/Ascii-art/assets/152062141/e9d82b0d-b9d9-487c-b5c4-2a129516d90c
+<https://github.com/Rrrinav/Ascii-art/assets/152062141/e9d82b0d-b9d9-487c-b5c4-2a129516d90c>
 
 This program simulates the generation of steam using ASCII characters. It creates a dynamic steam effect where particles rise upwards, resembling steam rising from a source.
 
@@ -14,14 +14,16 @@ This program simulates the generation of steam using ASCII characters. It create
 ## How to Use
 
 1. Compile the program using a C++ compiler. For example, using g++:
-    ```bash
-    g++ -o steam_simulation steam_simulation.cpp
-    ```
+
+   ```bash
+   g++ -o main main.cpp
+   ```
 
 2. Run the compiled executable:
-    ```bash
-    ./steam_simulation
-    ```
+
+   ```bash
+   ./main
+   ```
 
 3. Watch the steam simulation in action. The particles will rise and move dynamically, creating a steam-like effect on the screen.
 
